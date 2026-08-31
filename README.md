@@ -27,9 +27,6 @@ Edit `.env` and fill in:
 | `AWS_ACCESS_KEY_ID` | **Required** — for S3 presigned URLs (audio playback) |
 | `AWS_SECRET_ACCESS_KEY` | **Required** |
 | `AWS_REGION` | Default: `ap-south-1` |
-| `DEEPGRAM_API_KEY` | Only needed to process new calls |
-| `DEEPSEEK_API_KEY` | Only needed to process new calls |
-| `S3_BUCKET_NAME` | Default: `callradar-prod` |
 
 ### 2. Build and start the stack
 
