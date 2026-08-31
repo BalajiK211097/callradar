@@ -15,7 +15,7 @@ AI-powered call centre analysis platform. Ingests stereo MP3 recordings, transcr
 ### 1. Clone and configure
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/BalajiK211097/callradar.git
 cd callradar
 cp .env.example .env
 ```
